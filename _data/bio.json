@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Geo Intelligence",
+      "name": "Intelligence",
       "keywords": [
       ]
     }
@@ -55,8 +55,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "R"
       ]
     },
     {
@@ -85,54 +85,60 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "US ARMY",
+      "position": "PFC, Signals Intelligence Analyst",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-01-22",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official college newspaper website"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "UH Manoa",
+      "position": "ATA",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2021-01-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Learning Assistant for ICS 211"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Technology Outreach Hawaii",
+      "website": "https://technology-outreach-hawaii.github.io/",
+      "position": "Head of Marketing",
+      "startDate": "2020-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Non-Profit for Technology Outreach and Digital Literacy in Hawaii"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "PANDA",
+      "website": "https://acmanoa.github.io/panda/",
+      "position": "President",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Former - Vice President [Mock Interviews], Former - Member"
+      ]
+    },
+    {
+      "organization": "Greyhats",
+      "website": "https://acmanoa.github.io/greyhats/",
+      "position": "Member",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
       ]
     }
   ],
@@ -141,14 +147,8 @@
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": ""
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
