@@ -30,17 +30,17 @@
   "interests": [
     {
       "name": "Data Science",
-      "keywords": [
+      "keywords": [ "Machine Learning", "Statistics", "Probability"
       ]
     },
     {
       "name": "Defense",
-      "keywords": [
+      "keywords": [ "National Security", "Intelligence"
       ]
     },
     {
       "name": "Intelligence",
-      "keywords": [
+      "keywords": [ "Signals Intelligence", "Geospatial Intelligence",
       ]
     }
   ],
