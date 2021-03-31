@@ -1,11 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Final Project Idea
-date: 2021-30-03
+title: Final Project dea
+date: 2021-03-30
 labels:
   - Software Engineering
   - Meteor
+  - Semantic UI
+  - React
 ---
 
 # PANDA Club - Algorithm solution submission and archiving system
