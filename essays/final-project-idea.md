@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Final Project dea
+title: Final Project idea
 date: 2021-03-30
 labels:
   - Software Engineering
