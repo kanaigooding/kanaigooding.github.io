@@ -18,8 +18,6 @@ First of all, friction like its physics cousion, can never be eliminated.  Howev
 
 ####Publish-Subscribe
 ```JavaScript
-// User-level publication.
-// If logged in, then publish documents owned by this user. Otherwise publish nothing.
 Meteor.publish(Problems.userPublicationName, function () {
   if (this.userId) {
     return Problems.collection.find();
