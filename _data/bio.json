@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "https://kanaigooding.github.io/images/image.jpg",
     "email": "kgooding@hawaii.edu",
-    "phone": "808-206-6100",
+    "phone": "",
     "website": "https://kanaigooding.github.io",
-    "summary": "I am studying for a B.S. in Mathematics at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.S. in Mathematics & Computer Science at the University of Hawaii.  I hope to enter the informatics field when I graduate in Spring 2023.  I have experience in project management and strategic planning from my time in various leadership positions.  I enjoy giving back to the community through education and environmental conservation. ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Defence",
+      "name": "defense",
       "keywords": [ "Intelligence", "SIGINT",
       ]
     }
@@ -49,34 +49,31 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
+        "C/C++",
         "Python",
-        "R"
+        "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "WindowsOS",
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
+        "React",
+        "Meteor",
         "Eclipse",
         "CodeBlocks",
         "VIM",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Mathematics (expected Spring, 2023)",
+      "area": "Mathematics & Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2018-09-01",
       "endDate": "Present",
