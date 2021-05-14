@@ -34,13 +34,13 @@
       ]
     },
     {
-      "name": "Defense",
-      "keywords": [ "National Security", "Intelligence"
+      "name": "Algorithm",
+      "keywords": [ "Optimization", "Implementation"
       ]
     },
     {
-      "name": "Intelligence",
-      "keywords": [ "Signals Intelligence", "Geospatial Intelligence",
+      "name": "Defence",
+      "keywords": [ "Intelligence", "SIGINT",
       ]
     }
   ],
@@ -81,81 +81,114 @@
       "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["Math 241, 242, 243, 301, 307, 372, 321, 331 | ICS 111, 211, 311, 314, 212, 390"
+      "courses": [""
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa",
-      "position": "ATA",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "TORCH, Technology Outreach Hawaii",
+      "position": "Communications Director",
+      "website": "https://technology-outreach-hawaii.github.io",
       "startDate": "2021-01-15",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Learning Assistant for ICS 211"
+        "Founding Member",
+        "Implemented & executed a communications strategy (first 8 months of operations).  Set expectations for team members and direction of projects.  Created a social media team to operate independently of director-level management."
       ]
     },
     {
-      "company": "Hawaiian Watersports",
-      "position": "Head of Web Design",
-      "website": "",
-      "startDate": "2019-04-15",
-      "endDate": "2020-04-15",
+      "company": "ACM, Association for Computing Machinery: Programing and Algorithms Special Interest Group (SIG) - PANDA",
+      "position": "President",
+      "website": "https://acmanoa.github.io/panda/",
+      "startDate": "2020-12-01",
+      "endDate": "2021-06-01",
       "summary": "",
       "highlights": [
-        "Designed, Built, and implemented website in WordPress",
-        "Handled Payment Security, SSL Encryption, Domain Transfers / Hosting"
+        "Responsible for establishing the club's goals and strategies and presiding over the entire officer board. Managed time, budget, and scope of projects.  Streamlined internal communication leading to fewer meetings.",      ]
+    },
+    {
+      "company": "ACM, Association for Computing Machinery: Programing and Algorithms Special Interest Group (SIG) - PANDA",
+      "position": "Vice President",
+      "website": "https://acmanoa.github.io/panda/",
+      "startDate": "2020-05-01",
+      "endDate": "2020-12-01",
+      "summary": "",
+      "highlights": [
+        "Managed internal projects, set expectations for team members, maintained deadlines.  Worked with industry professionals. ",
+      ]
+    },
+     {
+      "company": "University of Hawaii at Manoa: College of Natural Sciences",
+      "position": "Laboratory Assistant for ICS 211: Introduction to Computer Science II",
+      "website": "https://natsci.manoa.hawaii.edu/",
+      "startDate": "2021-01-01",
+      "endDate": "2020-05-01",
+      "summary": "",
+      "highlights": [
+        "Attended lab times, facilitated activities, and ran additional sessions outside of class times. ",
+      ]
+    }
+     },
+     {
+      "company": "Hawaiian Watersports",
+      "position": "Webmaster",
+      "website": "",
+      "startDate": "2019-05-01",
+      "endDate": "2020-03-01",
+      "summary": "",
+      "highlights": [
+        "Implemented design, development, deployment, and maintenance of the website.  Oversaw all aspects of the website. ",
+      ]
+    }
+     {
+      "company": "Hawaiian Watersports",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2018-06-01",
+      "endDate": "2020-03-01",
+      "summary": "",
+      "highlights": [
+        "Generated sales, assisted store manager, managed daily accounting, and directed junior staff.",
+      ]
+    }
+     {
+      "company": "United States Army Reserve",
+      "position": "",
+      "website": "",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Technology Outreach Hawaii",
-      "website": "https://technology-outreach-hawaii.github.io/",
-      "position": "Head of Marketing",
-      "startDate": "2020-10-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Non-Profit for Technology Outreach and Digital Literacy in Hawaii",
-        "Founding Member"
-      ]
-    },
-    {
-      "organization": "PANDA",
+      "organization": "ACM, Association for Computing Machinery: Programing and Algorithms Special Interest Group (SIG) - PANDA",
       "website": "https://acmanoa.github.io/panda/",
-      "position": "President",
-      "startDate": "2021-01-01",
-      "endDate": "Present",
+      "position": "Member",
+      "startDate": "2019-08-01",
+      "endDate": "2020-05-01",
       "summary": "",
       "highlights": [
-        "Extensive Algorithms and Leadership Experience",
-        "3-7 weekly meetings; 10+ hours weekly",
-        "Participation in Coding Contests (HackerRank Career Fair, etc)"
+        "Practiced algorithm mock interviews, attended workforce events, and meetings as a non-leadership member.",
       ]
     },
     {
-      "organization": "Greyhats",
+      "organization": "ACM (Association for Computing Machinery): Cyber Security Special Interest Group (SIG) - GREY HATS",
       "website": "https://acmanoa.github.io/greyhats/",
       "position": "Member",
-      "startDate": "2020-01-01",
+      "startDate": "2019-08-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Planned participation in Cyber Security Contests",
-        "1 weekly meeting; 1+ hour weekly"
+        "Attended student-lead lectures of topics related to cyber defense ",
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": ""
-    },
   ],
   "references": [
     {
