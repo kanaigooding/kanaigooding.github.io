@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Algorithm",
+      "name": "Algorithms",
       "keywords": [ "Optimization", "Implementation"
       ]
     },
     {
-      "name": "defense",
+      "name": "Defense",
       "keywords": [ "Intelligence", "SIGINT",
       ]
     }
