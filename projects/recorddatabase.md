@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Webcrawler
-permalink: projects/webcrawler
+image: images/c.png
+title: Record Database in C
+permalink: projects/recorddatabase
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
@@ -17,14 +17,12 @@ I developed a Record Database in C.  The database is based on a self-implemented
 
 The user interface was designed to take user input, requiring character parsing to ensure quality of input.  
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+```c
+  newNode = malloc( sizeof( struct record ) );
+
+     newNode->accountno = uaccountno;
+     strcpy( newNode->name, uname );
+     strcpy( newNode->address, uaddress);
+     newNode->next = NULL;
+
 ```
