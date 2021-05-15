@@ -87,8 +87,8 @@
       "company": "TORCH, Technology Outreach Hawaii",
       "position": "Communications Director",
       "website": "https://technology-outreach-hawaii.github.io",
-      "startDate": "2021-01-15",
-      "endDate": "2020-05-01",
+      "startDate": "2020-10-15",
+      "endDate": "2021-05-01",
       "summary": "",
       "highlights": [
         "Founding Member",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "company": "ACM, Association for Computing Machinery: Programing and Algorithms Special Interest Group (SIG) - PANDA",
+      "company": "ACM: Programing and Algorithms Special Interest Group - PANDA",
       "position": "President",
       "website": "https://acmanoa.github.io/panda/",
       "startDate": "2020-12-01",
@@ -107,8 +107,8 @@
    ]
     },
     {
-      "company": "ACM, Association for Computing Machinery: Programing and Algorithms Special Interest Group (SIG) - PANDA",
-      "position": "Vice President",
+      "company": "ACM: Programing and Algorithms Special Interest Group - PANDA",
+      "position": "Officer",
       "website": "https://acmanoa.github.io/panda/",
       "startDate": "2020-05-01",
       "endDate": "2020-12-01",
@@ -119,13 +119,13 @@
     },
      {
       "company": "University of Hawaii at Manoa: College of Natural Sciences",
-      "position": "Laboratory Assistant for ICS 211: Introduction to Computer Science II",
+      "position": "Laboratory Assistant",
       "website": "https://natsci.manoa.hawaii.edu/",
       "startDate": "2021-01-01",
       "endDate": "2020-05-01",
       "summary": "",
       "highlights": [
-        "Attended lab times, facilitated activities, and ran additional sessions outside of class times. ",
+        "ICS 211: Introduction to Computer Science II.  Attended lab times, facilitated activities, and ran additional sessions outside of class times. ",
       ]
     },
      {
@@ -162,7 +162,7 @@
   ],
   "volunteer": [
     {
-      "organization": "ACM, Association for Computing Machinery: Programing and Algorithms Special Interest Group (SIG) - PANDA",
+      "organization": "ACM: Programing and Algorithms Special Interest Group - PANDA",
       "website": "https://acmanoa.github.io/panda/",
       "position": "Member",
       "startDate": "2019-08-01",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "organization": "ACM (Association for Computing Machinery): Cyber Security Special Interest Group (SIG) - GREY HATS",
+      "organization": "ACM: Cyber Security Special Interest Group - GREY HATS",
       "website": "https://acmanoa.github.io/greyhats/",
       "position": "Member",
       "startDate": "2019-08-01",
