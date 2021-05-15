@@ -10,7 +10,7 @@ labels:
   - C++
   - VIM
   - UNIX
-summary: A database designed to store and sort user information.
+summary: A database designed to store and sort user information written using class functionality of C++.
 ---
 
 I developed a Record Database in C++.  The database is based on a self-implemented singly linked list designed to store and sort information such as name, address, and account number.  
