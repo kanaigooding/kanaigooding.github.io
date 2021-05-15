@@ -3,11 +3,11 @@ layout: project
 type: project
 image: images/cplusplus.png
 title: Record Database in C++
-permalink: projects/recorddatabasecplusplus
+permalink: projects/databasecplusplus
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
 labels:
-  - C++
+  - c++
   - UNIX
   - VIM
 summary: A record database developed in C++ for ICS 212: Programming Structure.
