@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/panda.PNG
-title: UH Code Submissions
-permalink: projects/uhcodesubmissions
+image: images/cplusplus.png
+title: Record Database in C++
+permalink: projects/recorddatabasecplusplus
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
 labels:
