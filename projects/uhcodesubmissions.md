@@ -5,7 +5,7 @@ image: images/panda.PNG
 title: UH Code Submissions
 permalink: projects/uhcodesubmissions
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-05-14
 labels:
   - Javascript
   - Meteor
