@@ -5,7 +5,7 @@ image: images/c.png
 title: Record Database in C
 permalink: projects/recorddatabase
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-14
+date: 2021-05-01
 labels:
   - C
   - UNIX
