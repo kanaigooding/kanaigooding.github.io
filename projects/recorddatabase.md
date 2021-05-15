@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/c.png
-title: UH Code Submissions
+title: Record Database in C
 permalink: projects/uhcodesubmissions
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
